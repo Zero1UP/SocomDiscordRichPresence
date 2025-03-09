@@ -26,7 +26,7 @@ The following NTSC versions of the game are supported:
 **SOCOM 1**
 * Black Label Disk 1 (CRC 6F4056DB)
 * Black Label Disk 4 (CRC 6F4056DB)
-* Blac Label Disk 8 (CRC 1349C549)
+* Black Label Disk 8 (CRC 1349C549)
 * Black Label Disk 10 (CRC B1C47426)
 * Red Label Disk 10 (CRC B1C47426)
 * Red Label Disk 11 (CRC B1C47426)
