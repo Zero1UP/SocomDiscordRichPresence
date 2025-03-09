@@ -5,6 +5,12 @@ Socom Discord Rich Presence displays current game information in your discord pr
 ![image](https://github.com/user-attachments/assets/f8bb761a-5a5a-4e69-aa65-d089c5a489c0)
 ![image](https://github.com/user-attachments/assets/9a935ffb-a207-4b2c-afae-5b842865b221)
 
+# Requirements
+
+You will need .net Desktop Runtime 8.0.13 installed which can be downloaded here:
+
+https://dotnet.microsoft.com/en-us/download/dotnet/8.0
+
 # How to:
 
 Start the game and then start the program.
